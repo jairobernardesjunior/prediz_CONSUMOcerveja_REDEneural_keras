@@ -1,6 +1,6 @@
 # prediz_CONSUMOcerveja_REDEneural_keras
-![Imagem](https://github.com/jairobernardesjunior/prediz_CONSUMOcerveja_DEEPlearning/blob/main/cerveja.jpg)
-![Imagem](https://github.com/jairobernardesjunior/prediz_CONSUMOcerveja_DEEPlearning/blob/main/escopo_prediz_CONSUMOcerveja_DEEPlearning.jpg)
+![Imagem](https://github.com/jairobernardesjunior/prediz_CONSUMOcerveja_REDEneural_keras/blob/main/cerveja.jpg)
+![Imagem](https://github.com/jairobernardesjunior/prediz_CONSUMOcerveja_REDEneural_keras/blob/main/prediz_CONSUMOcerveja_DEEPlearning.png)
  
 ## Cria e Treina modelo de Deep Lerning com rede neural para predizer o consumo de cerveja.
 
